@@ -1,7 +1,8 @@
-package com.cfpl.mywanandroidkotlin
+package com.cfpl.mywanandroidkotlin.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.cfpl.mywanandroidkotlin.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
